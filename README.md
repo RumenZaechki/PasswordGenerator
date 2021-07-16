@@ -1,0 +1,1 @@
+A simple js app which generates random passwords with different settings.
